@@ -1,0 +1,25 @@
+{
+	"services": [
+		{
+			"title":"title1",
+			"image":"path",
+			"text":"content",
+			"buttonLink":""
+		},
+
+		{
+			"title":"title2",
+			"image":"path",
+			"text":"content",
+			"buttonLink":""
+		},
+		
+		{
+			"title":"title3",
+			"image":"path",
+			"text":"content",
+			"buttonLink":""
+		}
+
+	]
+}
