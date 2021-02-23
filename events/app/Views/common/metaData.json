@@ -1,0 +1,48 @@
+{
+	"data": [
+
+	{
+		"url": "",
+		"title": "Code With Us | Digital needs one stop solution ",
+		"keywords": "web designing, website development, mobile apps, digital marketing, CRM, web hosting, domain registration, seo",
+		"description": "india's leading digital company for web designing, web development, mobile apps, digital marketing, web hosting, domain registration, seo"
+	},
+
+	{
+		"url": "home",
+		"title": "CodeWithUs.in",
+		"keywords": "best web designing company, full stake developers, ",
+		"description": "leading web designing and web development company in Andhra Pradesh"
+	},
+
+	{
+		"url": "about_us",
+		"title": "about CodeWithUs.in",
+		"keywords": "web designing, web development, mobile application development, digital marketing, CRM, admin panel, hosting, domain",
+		"description": "html, css, javascript, jquery, bootsstrap, php, nodejs, codeigniter, wordpress, angular, react, extjs"
+	},
+
+	{
+		"url": "services",
+		"title": "codewithus.in services",
+		"keywords": "ecommerce websites, business websites, static websites, mobile applications, employee management, customer management, payment gateways integration, digital marketing, seo",
+		"description": "best services for web design, wed development, mobile applications, hosting, domain registration, seo"
+	},
+
+	{
+		"url": "pricing",
+		"title": "pricing codewithus.in",
+		"keywords": "",
+		"description": ""
+	},
+
+	{
+		"url": "contact_us",
+		"title": "contact codewithus.in",
+		"keywords": "",
+		"description": ""
+	},
+	
+	] 
+
+}

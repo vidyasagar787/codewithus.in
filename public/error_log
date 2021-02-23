@@ -1,0 +1,89 @@
+[01-Oct-2020 08:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:18:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:18:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:18:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 9
+[01-Oct-2020 08:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:24:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:24:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[01-Oct-2020 08:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function redirect() in /home/goodwings/public_html/codewithus.in/public/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/goodwings/public_html/codewithus.in/public/index.php on line 7
+[02-Oct-2020 01:34:23 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[08-Oct-2020 04:09:33 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[12-Oct-2020 13:47:36 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[02-Nov-2020 15:10:06 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[16-Nov-2020 14:01:06 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[21-Nov-2020 21:55:59 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[22-Nov-2020 00:43:30 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[30-Nov-2020 10:01:21 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[30-Nov-2020 13:53:35 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[21-Dec-2020 14:08:39 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[04-Jan-2021 12:37:50 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[09-Jan-2021 08:02:58 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[14-Jan-2021 15:58:24 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[18-Jan-2021 13:56:21 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[06-Feb-2021 08:16:27 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[08-Feb-2021 13:23:17 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4
+[22-Feb-2021 13:08:03 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/goodwings/public_html/codewithus.in/public/index.php on line 4

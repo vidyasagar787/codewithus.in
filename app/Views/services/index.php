@@ -47,7 +47,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="single-features mt-20 aboutusProductsArea">
-                    <h3 class="aboutusProductsHeading mb-2">Mobile Alications</h3>
+                    <h3 class="aboutusProductsHeading mb-2">Mobile Applications</h3>
                     <div class="features-title-icon">
                         <div class="text-center">
                             <figure>

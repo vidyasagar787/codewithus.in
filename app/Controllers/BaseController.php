@@ -206,7 +206,3 @@ class BaseController extends Controller
         throw $e;
     }
 }
-
-
-
-

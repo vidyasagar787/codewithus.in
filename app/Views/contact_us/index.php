@@ -35,7 +35,7 @@
                                             <span><i class="lni lni-envelope"></i></span>
                                         </div>
                                         <div class="col-10">
-                                            contact@codewithus.in<br>info@codewithus.in
+                                            contact@codewithus.in<br>codewithus.in@gmail.com
                                         </div>
                                     </div>
                                 </div>
@@ -47,14 +47,14 @@
                                             <span><i class="lni lni-map-marker"></i></span>
                                         </div>
                                         <div class="col-10">
-                                            40-1/1-29, <br/>Near PVP Mall, <br/>Bundar road, <br/>Vijayawada, <br/>A.P, India.
+                                            40-1-100b/1a, 3rd Floor, HRT Plaza, <br/>Nara Chandrababu Naidu colony, <br>Benz Circle, <br/>Vijayawada-520010, <br/>A.P, India.
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             </div>
                             <div class="col-12 col-lg-9 m-0 p-0">
-                                <iframe class="w-100" id="gmap_canvas" src="https://maps.google.com/maps?q=codewithus.in, 40-1/1-29, Lakshmi Nagar, Venkateswarapuram Post, beside PVP mall, Vijayawada, Andhra Pradesh 520010&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                                <iframe class="w-100" id="gmap_canvas" src="https://maps.google.com/maps?q=40-1-100b/1a, 3rd Floor, HRT Plaza, Nara Chandrababu Naidu colony, Benz Circle, Vijayawada-520010, A.P, India.&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                             </div>
                         </div>
                     </div>

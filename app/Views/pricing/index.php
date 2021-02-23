@@ -44,7 +44,7 @@
 	                                	<li><i class="far fa-check-circle mr-3"></i>Website</li>
 	                                	<li><i class="far fa-check-circle mr-3"></i>Mobile Responsive Design</li>
 	                                	<li><i class="far fa-check-circle mr-3"></i>Guidance and analytics</li>
-	                                	<li><i class="far fa-check-circle mr-3"></i>2 Professional Emails Free<br>    <span class="pricingConditions"> (more than 1, Rs 50 p/m) </span></li>
+	                                	<li><i class="far fa-check-circle mr-3"></i>2 Professional Emails Free<br>    <span class="pricingConditions"> (more than 2, Rs 50 p/m) </span></li>
 	                                	<li><i class="far fa-check-circle mr-3"></i>Search Engine Optimization *</li>
 	                                	<li><i class="far fa-check-circle mr-3"></i>Web Security SSL Certificates <br>     <span class="pricingConditions">(Rs 250/- p/m) </span></li>
 	                                	<li><i class="far fa-check-circle mr-3"></i>Hosting *</li>

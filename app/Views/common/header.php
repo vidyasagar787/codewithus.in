@@ -2,6 +2,17 @@
 <html class="no-js" lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics start-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JKWKX6D12R"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JKWKX6D12R');
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics end-->
+
     <meta charset="utf-8">
     
     <!--====== Title ======-->
@@ -66,10 +77,12 @@
                 <div class="col-12">
                     <nav class="navbar navbar-expand-lg mt-0">
                         
-                        <a class="navbar-brand" href="http://codewithus.in">
-                            <h4 style="color: white;border-radius: 3px;font-size: 20px;">
-                                Codewithus.<span style="font-size: 14px;">in</span>
-                            </h4>
+                        <a class="navbar-brand p-0 d-none d-lg-block" href="http://codewithus.in">
+                            <img src="<?= $_imgPath;?>logo.png" alt="logo" title="logo" width="250" height="60" />
+                        </a>
+
+                        <a class="navbar-brand p-0 d-md-block d-lg-none" href="http://codewithus.in">
+                            <img src="<?= $_imgPath;?>logo.png" alt="logo" title="logo" width="130" height="40" />
                         </a>
 
                         <a href="tel:+916302207491" type="button" class="btn btn-lights d-md-none mobilePhoneButton phoneButtonIpod"><i class="fas fa-phone-volume" style="color: #f2f2f2;"></i></a>
